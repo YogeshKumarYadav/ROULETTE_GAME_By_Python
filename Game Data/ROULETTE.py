@@ -1,6 +1,9 @@
 import pygame
 import random
 
+#importing libraries
+
+
 width = 1125  
 height = 750  
 FPS = 300
